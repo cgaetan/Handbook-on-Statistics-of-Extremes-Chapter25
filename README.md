@@ -15,7 +15,7 @@ Handbook on Statistics of Extremes. Chapman & Hall / CRC.  Boca Raton, FL.
 These data were used in the study “Flexible and Consistent Quantile Estimation for Intensity-Duration-Frequency Curves” (Fauer et al., 2021) 
 See https://zenodo.org/records/5012621 for more details and for the original source. 
 
-- daily_rainfall_germany.Rdata: Daily precipitation data recorded in 191 meteorological stations ((period 1st January 1923 - 31st December 2022). 
+- daily_rainfall_germany.Rdata: Daily precipitation data recorded in 191 meteorological stations ((period 1st January 1923 - 31st December 2023). 
 		              Source: German Weather Service (Deutscher Wetterdienst, DWD) ftp://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/daily/more_precip/historical/
                               The dataset is retrieved using the rdwd package (https://bookdown.org/brry/rdwd/). 
                               See the script the Rmarkdown script Get-daily-data-Germany.Rmd
@@ -26,9 +26,21 @@ See https://zenodo.org/records/5012621 for more details and for the original sou
                     See the Rmarkdown script Get-daily-data-single-station.Rmd
 
 
+# Code
 
 
-REFERENCES
+	
+- Get-daily-data-Germany.Rmd : Script to get Jena data
+
+- Get-daily-data-single-station.Rmd: Script to get all station data
+
+- Estimation-daily-data.Rmd : Script for applying different estimation methods to the Jena data
+	
+- IDF-example.Rmd : Example of IDF curve estimation
+
+- Regression-with-GAM.Rmd :
+
+# REFERENCES
 
 Gaetan, C., Opitz, T. and Toluemonde, G. (2024), Statistical modeling of extreme precipitation, In M. de Carvalho, R. Huser, P. Naveau, & B. J. Reich (Eds)
 Handbook on Statistics of Extremes. Chapman & Hall / CRC.  Boca Raton, FL.
