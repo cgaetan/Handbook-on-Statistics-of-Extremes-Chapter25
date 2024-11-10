@@ -30,7 +30,7 @@ pkgTest("lmomco")
 
 
 ```{r}
-load("ydaily.Rdata")
+load("single-daily.Rdata")
 ```
 
 
