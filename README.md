@@ -17,14 +17,13 @@ See https://zenodo.org/records/5012621 for more details and for the original sou
 
 
 - daily_rainfall_germany.Rdata: Daily precipitation data recorded in 191 meteorological stations ((period 1st January 1923 - 31st December 2023). 
-		              Source: German Weather Service (Deutscher Wetterdienst, DWD) ftp://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/daily/more_precip/historical/
+		              Source: German Weather Service (Deutscher Wetterdienst, DWD) (ftp://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/daily/more_precip/historical/)
                               The dataset is retrieved using the rdwd package (https://bookdown.org/brry/rdwd/). 
                               See the script the Rmarkdown script Get-daily-data-Germany.Rmd
 
 
 - single-daily.Rdata: Daily precipitation data recorded at  Jena (period 1st January 1827 - 8th August 2019). 
-                    Source: German Weather Service (Deutscher Wetterdienst, DWD) ftp://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/daily/more_precip/historical/
-                    See the Rmarkdown script Get-daily-data-single-station.Rmd
+                    Source: German Weather Service (Deutscher Wetterdienst, DWD). See the Rmarkdown script Get-daily-data-single-station.Rmd
 
 
 # Code
