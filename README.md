@@ -38,7 +38,8 @@ See https://zenodo.org/records/5012621 for more details and for the original sou
 	
 - IDF-example.Rmd : Example of IDF curve estimation
 
-- Regression-with-GAM.Rmd :
+- Regression-with-GAM.Rmd : Script for regression modeling to capture spatial and temporal patterns in the marginal distributions of extreme daily cumulated precipitation using
+observation data from gauges in Germany during the period 1901–2023
 
 # REFERENCES
 
