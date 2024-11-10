@@ -35,7 +35,7 @@ We fix a period
 
 ```{r}
 startday<-"1923-01-01"
-endday<-"2022-12-31"
+endday<-"2023-12-31"
 ```
 
 We select the historical daily rainfall database
