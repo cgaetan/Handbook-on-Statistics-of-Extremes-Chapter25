@@ -2,7 +2,7 @@
 
 This is the repository for the code related to the paper
 
-Gaetan, C., Opitz, T. and Toluemonde, G. (2024+), Statistical modeling of extreme precipitation, In M. de Carvalho, R. Huser, P. Naveau, & B. J. Reich (Eds)
+Gaetan, C., Opitz, T. and Toulemonde, G. (2024+), Statistical modeling of extreme precipitation, In M. de Carvalho, R. Huser, P. Naveau, & B. J. Reich (Eds)
 Handbook on Statistics of Extremes. Chapman & Hall / CRC.  Boca Raton, FL.
 
 # Data description
